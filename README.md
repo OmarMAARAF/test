@@ -1,2 +1,2 @@
 # test
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMAARAF&count_private=true&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMAARAF&count_private=true&theme=synthwave&show_icons=true)
